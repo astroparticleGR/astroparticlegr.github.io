@@ -1,1 +1,1 @@
-Sitemap: https://astroparticlegr.github.io/astroparticle-gr.github.io/sitemap.xml
+Sitemap: https://astroparticlegr.github.io/sitemap.xml
