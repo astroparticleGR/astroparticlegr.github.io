@@ -1,8 +1,8 @@
 title: Astroparticle Physics Group at NCSR "Demokritos", Greece
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-show-title: false
-show-subtitle: false
+subtitle: Astroparticle Physics · Neutrinos · AI · Sensors
+description: Research on neutrino physics, machine learning algorithms and detector instrumentation.
+show-title: true
+show-subtitle: true
 url: "https://astroparticlegr.github.io"
 baseurl: ""
 header: images/background.jpg
