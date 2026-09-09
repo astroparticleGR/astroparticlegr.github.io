@@ -5,4 +5,4 @@
 
   # NuAIs Lab's Website
 
-  Visit **[astroparticlegr.github.io/astroparticle-gr.github.io](https://astroparticlegr.github.io/astroparticle-gr.github.io)** 🚀
+  Visit **[astroparticlegr.github.io](https://astroparticlegr.github.io)** 🚀
