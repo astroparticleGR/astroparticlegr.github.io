@@ -2,6 +2,7 @@
 ---
 
 {% include section.html %}
+<div style="text-align: center; margin: 2rem 0;"> <img src="images/photo.png" alt="Astroparticle Physics Group logo" style="max-width: 280px; width: 100%;"> </div>
 
 ## Highlights
 
