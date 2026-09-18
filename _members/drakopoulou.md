@@ -1,7 +1,7 @@
 ---
 name: Evangelia Drakopoulou
-image: images/markou.jpg
-role: Director of Research
+image: images/drakopoulou.jpg
+role: Senior Researcher
 affiliation: INPP, NCSR "Demokritos"
 aliases:
   - E. Drakopoulou
