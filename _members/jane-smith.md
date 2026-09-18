@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+name: Christos Markou
+image: images/markou.jpg
+role: Director of Research
+affiliation: INPP, NCSR "Demokritos"
 aliases:
-  - J. Smith
-  - J Smith
+  - C. Markou
+  - C Markou
 links:
-  home-page: ""
+  home-page: "http://www.inp.demokritos.gr/staff-members/christos-markou/"
   orcid: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Christos Markou — Experimental physicist specialising in astroparticle physics, instrumentation, distributed computing and signal processing. Ph.D. in Physics from Imperial College London (1989), with earlier appointments at Imperial College and CERN. A founding contributor to KM3NeT, he has chaired the KM3NeT Institution Board since 2016 and serves on its Resources Review Board and Publication Committee, alongside developing a novel acoustic detector concept for ultra-high-energy neutrinos. He has led numerous national and international research projects and supervised 8 PhD theses.
