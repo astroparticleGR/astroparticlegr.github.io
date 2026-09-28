@@ -7,6 +7,7 @@ aliases:
   - E. Drakopoulou
   - E Drakopoulou
 links:
+  email: drakopoulou@inp.demokritos.gr
   home-page: "https://evangeliadrakopoulou.netlify.app"
   orcid: "https://orcid.org/0000-0003-2493-8039"
 ---
