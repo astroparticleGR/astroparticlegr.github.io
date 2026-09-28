@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The astroparticle physics group at the Institute of Nuclear and Particle Physics (INPP), NCSR "Demokritos", brings together senior researchers, technical staff and BSc, MSc and PhD students. The group combines detector instrumentation, data analysis and machine learning to study cosmic neutrinos with KM3NeT, and neutrino interactions and properties with ANNIE and Hyper-Kamiokande.
 
 {% include section.html %}
 
