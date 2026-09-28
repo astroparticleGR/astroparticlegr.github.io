@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+We search for cosmic neutrinos - messengers from the most extreme events in the universe. As members of the KM3NeT collaboration (deep-sea neutrino telescope, Mediterranean Sea) and collaborators on ANNIE (Fermilab) and Hyper-Kamiokande (Japan), we combine detector data with machine learning to identify these rare signals.
 {% include section.html %}
 
 ## Highlighted
