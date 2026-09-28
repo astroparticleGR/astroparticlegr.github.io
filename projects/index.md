@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+From deep learning algorithms that reconstruct particle properties and identify rare signals in real time to open-source tools that make raw detector data AI-ready, our projects turn physics data into results - with applications reaching beyond neutrino physics into imaging and sensing.
 
 {% include tags.html tags="publication, resource, website" %}
 
