@@ -1,6 +1,6 @@
 ---
 name: Ekaterini Tzamariudaki
-image: images/zamariudaki.jpg
+image: images/tzamariudaki.jpg
 role: Director of Research
 affiliation: INPP, NCSR "Demokritos"
 aliases:
